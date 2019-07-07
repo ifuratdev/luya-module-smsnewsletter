@@ -7,7 +7,7 @@
     "repositories": [  
         {  
             "type": "vcs",  
-            "url": "https://github.com/osteel/guzzle"  
+            "url": "https://github.com/ifuratdev/luya-module-smsnewsletter"  
         }  
     ],    
     "authors" : [
