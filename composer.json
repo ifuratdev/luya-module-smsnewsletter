@@ -21,7 +21,6 @@
         "luyadev/luya-module-admin": "~2.0.3",
         "nadar/aspsms": "^1.0",
         "giggsey/libphonenumber-for-php": "^8.9"
-        "luyadev/luya-module-smsnewsletter": "dev-master" 
     },
     "require-dev" : {
         "luyadev/luya-testsuite" : "~1.0.0"
