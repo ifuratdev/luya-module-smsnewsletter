@@ -20,7 +20,7 @@
         "luyadev/luya-core" : "~1.0",
         "luyadev/luya-module-admin": "~1.2",
         "nadar/aspsms": "^1.0",
-        "giggsey/libphonenumber-for-php": "^8.9"
+        "giggsey/libphonenumber-for-php": "^8.9",
         "ifuratdev/luya-module-smsnewsletter": "master"
     },
     "require-dev" : {
