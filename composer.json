@@ -4,6 +4,12 @@
     "type" : "luya-module",
     "keywords" : ["luya"],
     "license": "MIT",
+    "repositories": [  
+        {  
+            "type": "vcs",  
+            "url": "https://github.com/osteel/guzzle"  
+        }  
+    ],    
     "authors" : [
         {
             "name": "Basil Suter",
