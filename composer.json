@@ -1,5 +1,5 @@
 {
-    "name" : "luyadev/luya-module-smsnewsletter",
+    "name" : "ifuratdev/luya-module-smsnewsletter",
     "description" : "SMS Newseltter module for ASPSMS gateway.",
     "type" : "luya-module",
     "keywords" : ["luya"],
@@ -17,11 +17,9 @@
         }  
     ],    
     "require": {
-        "luyadev/luya-core" : "~1.0",
-        "luyadev/luya-module-admin": "~1.2",
+        "luyadev/luya-module-admin": "~2.0",
         "nadar/aspsms": "^1.0",
         "giggsey/libphonenumber-for-php": "^8.9",
-        "ifuratdev/luya-module-smsnewsletter": "master"
     },
     "require-dev" : {
         "luyadev/luya-testsuite" : "~1.0.0"
