@@ -1,6 +1,6 @@
 {
     "name" : "ifuratdev/luya-module-smsnewsletter",
-    "description" : "SMS Newseltter module for ASPSMS gateway.",
+    "description" : "SMS Newseltter module for ASPSMS gateway..",
     "type" : "luya-module",
     "keywords" : ["luya"],
     "license": "MIT",
